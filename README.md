@@ -1,4 +1,4 @@
-# 2016.M3.TQF-ML.Project
+# 2016.M3.TQF-ML.Loan-Default-Prediciton
 Final project for the 'Topics in Quantitative Finance: Machine Learning for Finance' class at PHBS (2016/2017)
 
 ## Loan Default Prediction
